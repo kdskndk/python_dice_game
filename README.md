@@ -7,9 +7,9 @@ First you will start with a pool of 6 dice
 
 In a turn you can do the following:
 
-1.Pick at least 1 dice and re-roll the rest
+1.Pick at least 1 dice and re-roll the rest by entering one dice position or many separated by comma (e.g. 2 if you want to keep the 2nd dice in the pool or 4,5 if you want to keep the 4th and the 5th die in the pool)
 
-2.Re-roll the pool but take at least 2 dice next turn. You can only to this if you have not done this step the previous turn
+2.Re-roll the pool but take at least 2 dice next turn by entering 0. You can only to this if you have not done this step the previous turn
 
 ## Scoring
 
